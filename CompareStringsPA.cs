@@ -21,16 +21,16 @@ class CompareStringsPA
         Console.WriteLine("\nThank you, {0}! Please reenter your password: ", userName);
         string newPassword = Console.ReadLine();
         int status = newPassword.CompareTo(password);
-        //Console.WriteLine(status);
+        Console.WriteLine(status);
         // if password when compared to previous password is true, then it returns this message.
-        if (status >= 0)
+        if (status > 0)
         {
             Console.WriteLine("\nYour password is {0}: ", password);
             Console.WriteLine("The new password {0} equals your old password {1}. ", newPassword, password);
             Console.WriteLine("Your password has been stored.");
         }
         // else if password when compared to previous is false, then it returns this message.
-        else
+        else if (status < 0)
         {
             if (password.Length < newPassword.Length)
                 {
