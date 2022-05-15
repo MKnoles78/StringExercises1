@@ -58,7 +58,7 @@ class StringIndexMethods
             "located at index " + letters.LastIndexOfAny(searchLetters));
         Console.WriteLine("Last 'c', 'a' or '$' up to position 1 is " + 
             "located at index " +
-            letters.LastIndexOf(searchLetters, 1));
+            letters.LastIndexOfAny(searchLetters, 1));
         Console.WriteLine("Last 'c', 'a' or '$' in the 5 positions " + 
             "ending at 25 is located at index " + 
             letters.LastIndexOfAny(searchLetters, 25, 5));
