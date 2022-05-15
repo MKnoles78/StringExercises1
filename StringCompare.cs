@@ -16,7 +16,7 @@ class StringCompare
         Console.WriteLine( "string1 = \"" + string1 + "\"" +
             "\nstring2 = \"" + string2 + "\"" +
             "\nstring3 = \"" + string3 + "\"" +
-            "\nstring4 = \"" + string4 + "\"");
+            "\nstring4 = \"" + string4 + "\"\n");
 
             //test for equality using Equals method
             if (string1.Equals("hello"))
