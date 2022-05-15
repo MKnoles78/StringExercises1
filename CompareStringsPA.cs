@@ -25,7 +25,7 @@ class CompareStringsPA
         // if password when compared to previous password is true, then it returns this message.
         if (status >= 0)
         {
-            Console.WriteLine("\nYour password is: " + password);
+            Console.WriteLine("\nYour password is {0}: ", password);
             Console.WriteLine("The new password {0} equals your old password {1}. ", newPassword, password);
             Console.WriteLine("Your password has been stored.");
         }
