@@ -1,4 +1,5 @@
-﻿//Fig. 16.1: StringConstructor.cs
+﻿//Michael Knoles
+//Fig. 16.1: StringConstructor.cs
 //Demonstrating string class constructors
 using System;
 

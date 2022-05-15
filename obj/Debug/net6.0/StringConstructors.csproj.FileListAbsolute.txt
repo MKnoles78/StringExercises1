@@ -1,0 +1,15 @@
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\bin\Debug\net6.0\StringConstructors.exe
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\bin\Debug\net6.0\StringConstructors.deps.json
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\bin\Debug\net6.0\StringConstructors.runtimeconfig.json
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\bin\Debug\net6.0\StringConstructors.dll
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\bin\Debug\net6.0\StringConstructors.pdb
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\obj\Debug\net6.0\StringConstructors.csproj.AssemblyReference.cache
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\obj\Debug\net6.0\StringConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\obj\Debug\net6.0\StringConstructors.AssemblyInfoInputs.cache
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\obj\Debug\net6.0\StringConstructors.AssemblyInfo.cs
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\obj\Debug\net6.0\StringConstructors.csproj.CoreCompileInputs.cache
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\obj\Debug\net6.0\StringConstructors.dll
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\obj\Debug\net6.0\refint\StringConstructors.dll
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\obj\Debug\net6.0\StringConstructors.pdb
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\obj\Debug\net6.0\StringConstructors.genruntimeconfig.cache
+C:\Users\mknol\C#-Workspace\CIS317_Advanced-OOP\Week_1\StringConstructors\obj\Debug\net6.0\ref\StringConstructors.dll
