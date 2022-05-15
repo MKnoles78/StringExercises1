@@ -37,7 +37,7 @@ class CompareStringsPA
                 Console.WriteLine("\nYour second password entry {0} is greater than your previous password {1} and doesn't match: ", newPassword, password);
                 Console.WriteLine("Passwords should match.");
                 }
-            else if (password.Length > newPassword.Length)
+            else
                 {
                 Console.WriteLine("\nYour second password entry {0} is less than your previous password {1} and doesn't match: ", newPassword, password);
                 Console.WriteLine("Passwords should match.");
