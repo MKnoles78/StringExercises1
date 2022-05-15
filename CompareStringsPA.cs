@@ -35,17 +35,17 @@ class CompareStringsPA
             if (password.Length < newPassword.Length)
                 {
                 Console.WriteLine("\nYour second password entry {0} is greater than your previous password {1} and doesn't match: ", newPassword, password);
-                Console.WriteLine("Passwords should match. You will need to renter your passwords.\n");
+                Console.WriteLine("Passwords should match. You will need to renter your password.\n");
                 }
             else if (password.Length > newPassword.Length)
                 {
                 Console.WriteLine("\nYour second password entry {0} is less than your previous password {1} and doesn't match: ", newPassword, password);
-                Console.WriteLine("Passwords should match. You will need to renter your passwords.\n");
+                Console.WriteLine("Passwords should match. You will need to renter your password.\n");
                 }
             else
                 {
                 Console.WriteLine("\nYour entries are the same length, but do not match: initial {0}, reentry {1}", password, newPassword); 
-                Console.WriteLine("Passwords should match. You will need to renter your passwords.\n");              
+                Console.WriteLine("Passwords should match. You will need to renter your password.\n");              
                 }
         }
     } //end Main
