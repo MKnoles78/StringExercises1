@@ -30,6 +30,7 @@ class CompareStringsPA
             Console.WriteLine("Your password has been stored.\n");
         }
         // else if password when compared to previous is false, then it returns this message.
+        // consider adding loop until it meets the requirements
         else if (status != 0)
         {
             if (password.Length < newPassword.Length)
