@@ -27,7 +27,7 @@ class StringIndexMethods
             "is located at index " + letters.LastIndexOf('$', 15, 5));
         
         //test IndexOf to locate a substring in a string
-        Console.WriteLine("\nFirst \"def\" is located at " +
+        Console.WriteLine("\nFirst \"def\" is located at index " +
             letters.IndexOf("def"));
         Console.WriteLine("First \"def\" starting at 7 is located at " +
             "index " + letters.IndexOf("def", 7));
@@ -36,7 +36,7 @@ class StringIndexMethods
             letters.IndexOf("hello", 5, 15));
 
         //test LastIndexOf to find a substring in a string
-        Console.WriteLine("\nLast \"def\" is located " +
+        Console.WriteLine("\nLast \"def\" is located at index " +
             letters.LastIndexOf("def"));
         Console.WriteLine("Last \"def\" up to position 25 is located " + 
             "at index " + letters.LastIndexOf("def", 25));
