@@ -21,7 +21,7 @@ class CompareStringsPA
         Console.WriteLine("\nThank you, {0}! Please reenter your password: ", userName);
         string newPassword = Console.ReadLine();
         int status = newPassword.CompareTo(password);
-        Console.WriteLine(status);
+        //Console.WriteLine(status);
         // if password when compared to previous password is true, then it returns this message.
         if (status == 0)
         {
